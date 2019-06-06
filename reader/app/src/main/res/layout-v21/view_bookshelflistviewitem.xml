@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--每个单元按照宽度比例分配位置-->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_height="wrap_content"
+    android:layout_width="wrap_content"
+    android:layout_columnWeight="1"
+    android:orientation="vertical">
+<!--图书封面-->
+    <ImageButton
+        style="@style/Widget.AppCompat.ImageButton"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/bookImg"
+        android:contentDescription="@string/image_default_content" />
+    <!--书名-->
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/bookName"
+        style="@style/Widget.AppCompat.Button.Borderless"/>
+</LinearLayout>

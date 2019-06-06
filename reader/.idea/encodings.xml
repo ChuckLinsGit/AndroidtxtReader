@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="GBK" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$/app/build.gradle" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/app/reader/Data/ApplicationData.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/app/reader/activity/BookshelfActivity.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/app/reader/activity/FullscreenActivity.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/app/reader/activity/ReadingActivity.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/app/reader/control/DefaultMark.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/app/reader/control/DefaultMemory.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/app/reader/control/DefaultReader.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/app/reader/control/Interfaces/IFileOpen.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/app/reader/control/Interfaces/IMemory.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/app/reader/control/ResultStructs/BtreeIndexNode.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/app/reader/control/ResultStructs/BtreeStruct.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/app/reader/control/fileOpen/ImgFileOpen.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/app/reader/control/fileOpen/txtFileOpen.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/app/reader/response/ReadingTextViewGestureListener.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/app/reader/response/ReadingTextViewOnDownSlide.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/app/reader/response/ReadingTextViewOnMenuClick.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/app/reader/response/ShelfViewAdapter.java" charset="GBK" />
+    <file url="PROJECT" charset="GBK" />
+  </component>
+</project>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/callIndex"
+        android:title="目录">
+    </item>
+    <item
+        android:id="@+id/mark"
+        android:title="保存书签">
+    </item>
+    <item
+        android:id="@+id/marks"
+        android:title="查看书签">
+    </item>
+</menu>

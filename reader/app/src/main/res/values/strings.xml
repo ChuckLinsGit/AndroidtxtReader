@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">reader</string>
+    <string name="image_default_content">书名</string>
+    <string name="dummy_content">My\nReader</string>
+    <string name="shelfTitle">我的书架</string>
+    <string name="readingText">Android ScrollView</string>
+    <string name="intendsFilePath">/data/user/0/reader/books </string>
+    <string name="extendsFilePath">/reader/</string>
+    <string name="dialogConfirm">确定</string>
+</resources>
